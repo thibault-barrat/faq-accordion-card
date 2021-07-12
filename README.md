@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
@@ -50,7 +50,7 @@ Users should be able to:
 
 ### What I learned
 
-The main difficulty in this challenge was to correctly position the diffrent svg images using the CSSS `background-image` property, for example :
+The main difficulty in this challenge was to correctly position the diffrent svg images using the CSS `background-image` property, for example :
 
 ```css
   background-image: url(../images/illustration-woman-online-desktop.svg);
